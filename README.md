@@ -7,16 +7,16 @@
 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Muhammad-Roshaan/Numpy-Mastery)
 &nbsp;&nbsp;[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Muhammad-Roshaan/Pandas-Mastery)
-&nbsp;&nbsp;[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-&nbsp;&nbsp;[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
-&nbsp;&nbsp;[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)]()
-&nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=black)]()
+&nbsp;&nbsp;[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=black)](https://github.com/Muhammad-Roshaan)
 &nbsp;&nbsp;[![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/Muhammad-Roshaan/Plotly-Mastery)
 &nbsp;&nbsp;[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/Muhammad-Roshaan/Keras-Mastry)
 
 ## Working Platforms 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)]([https://www.kaggle.com/](https://www.kaggle.com/muhammadroshaanriaz))
-&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/](https://github.com/Muhammad-Roshaan))
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadroshaanriaz)
+&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Roshaan)
 &nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Muhammad-Roshaan/Muhammad-Roshaan/main/ZeeomTech%20logo.png" width="110" height="30">](https://zeeomtech.com/)
 &nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-roshaan-riaz-mrr/)
 
@@ -36,16 +36,16 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Muhammad-Roshaan/Advance_Python_Programs)
 &nbsp;&nbsp;[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Muhammad-Roshaan/Html-Mastry)
-&nbsp;&nbsp;[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
-&nbsp;&nbsp;[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)]()
-&nbsp;&nbsp;[![REST API](https://img.shields.io/badge/REST_API-009696?style=for-the-badge&logo=rest&logoColor=white)]()
+&nbsp;&nbsp;[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![REST API](https://img.shields.io/badge/REST_API-009696?style=for-the-badge&logo=rest&logoColor=white)](https://github.com/Muhammad-Roshaan)
 
 ## Code Editors & IDEs
 
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)]()
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)]()
-[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)]()
+[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/Muhammad-Roshaan)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://github.com/Muhammad-Roshaan)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Muhammad-Roshaan)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://github.com/Muhammad-Roshaan)
 
 
 
@@ -53,9 +53,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Muhammad-Roshaan/Advance_Python_Programs)
 &nbsp;&nbsp;[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Muhammad-Roshaan/Html-Mastry)
-&nbsp;&nbsp;[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
+&nbsp;&nbsp;[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Muhammad-Roshaan)
 
 ## Continuous Learning 
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Muhammad-Roshaan)
 
