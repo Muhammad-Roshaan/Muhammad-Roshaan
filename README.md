@@ -13,7 +13,7 @@
 &nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=black)](https://github.com/Muhammad-Roshaan)
 &nbsp;&nbsp;[![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/Muhammad-Roshaan/Plotly-Mastery)
 &nbsp;&nbsp;[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/Muhammad-Roshaan/Keras-Mastry)
-&nbsp;&nbsp;[<img src="https://raw.githubusercontent.com/Muhammad-Roshaan/Muhammad-Roshaan/Datasets/blob/main/Datasets%20logo.png" width="110" height="30">](https://github.com/Muhammad-Roshaan/Datasets)
+&nbsp;&nbsp;[<img src="https://github.com/Muhammad-Roshaan/Datasets/blob/main/Datasets%20logo.png" width="90" height="30">](https://github.com/Muhammad-Roshaan/Datasets)
 
 ## Working Platforms 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/muhammadroshaanriaz)
