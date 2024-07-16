@@ -7,7 +7,7 @@
 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Muhammad-Roshaan/Numpy-Mastery)
 &nbsp;&nbsp;[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Muhammad-Roshaan/Pandas-Mastery)
-&nbsp;&nbsp;[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Muhammad-Roshaan/Tensorflow-Mastery)
 &nbsp;&nbsp;[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Muhammad-Roshaan)
 &nbsp;&nbsp;[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/Muhammad-Roshaan/Matplotlib-Mastery)
 &nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=black)](https://github.com/Muhammad-Roshaan)
