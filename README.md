@@ -10,7 +10,7 @@
 &nbsp;&nbsp;[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/Muhammad-Roshaan/Tensorflow-Mastery)
 &nbsp;&nbsp;[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/Muhammad-Roshaan)
 &nbsp;&nbsp;[![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)](https://github.com/Muhammad-Roshaan/Matplotlib-Mastery)
-&nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=black)](https://github.com/Muhammad-Roshaan)
+&nbsp;&nbsp;[![Seaborn](https://img.shields.io/badge/Seaborn-4EAE53?style=for-the-badge&logo=seaborn&logoColor=black)](https://github.com/Muhammad-Roshaan/Seaborn-Mastery)
 &nbsp;&nbsp;[![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://github.com/Muhammad-Roshaan/Plotly-Mastery)
 &nbsp;&nbsp;[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://github.com/Muhammad-Roshaan/Keras-Mastry)
 &nbsp;&nbsp;[<img src="https://github.com/Muhammad-Roshaan/Datasets/blob/main/Datasets%20logo2.png" width="90" height="30">](https://github.com/Muhammad-Roshaan/Datasets)
