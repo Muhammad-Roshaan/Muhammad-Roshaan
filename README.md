@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi There, My Name Is Muhammad Roshan Riaz!</h1>
+<h1 align="center">Hi There, I'm Muhammad Roshan Riaz!</h1>
 
 <h2 align="center"> Welcome to my GitHub profile, I am a  Machine Learning Engineer with frontend mastry. As a Machine Learning Engineer, you play a crucial role in developing, deploying, and maintaining machine learning models.</h2>
 
-## Data Science, ML & DL
+## Data Science, ML & DL.
 
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Muhammad-Roshaan/Numpy-Mastery)
 &nbsp;&nbsp;[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Muhammad-Roshaan/Pandas-Mastery)
